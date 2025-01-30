@@ -1,4 +1,5 @@
-![Matesu Barbosa Reck](https://github.com/user-attachments/assets/59ef129b-22d4-4f86-a6e8-e8e20ada8df3)
+
+![Mateus Reck](https://github.com/user-attachments/assets/3eac83f6-e2e9-4cb8-9a8a-b52526d3c14a)
 
 # Olá, Desenvolvedores! 
 
