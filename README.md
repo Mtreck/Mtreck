@@ -1,29 +1,50 @@
+# Mateus Barbosa Reck
 
-![Mateus Reck](https://github.com/user-attachments/assets/3eac83f6-e2e9-4cb8-9a8a-b52526d3c14a)
+**Docente · Desenvolvedor Full Stack · Pós-graduado em Arquitetura de Software**
 
-# Olá, Desenvolvedores! 
+---
 
-Olá! Meu nome é Mateus Barbosa Reck. Obrigado por dedicar um tempo para visitar meu perfil no GitHub 😄
+Professor de Tecnologia com mais de **5 anos de experiência** em desenvolvimento de software. Atuo no ensino técnico, médio e superior — e desenvolvo projetos que aliam pesquisa acadêmica e impacto real no mundo corporativo.
 
-## Sobre Mim 
+Formado em **Sistemas de Informação pelo IFPR**, pós-graduado em **Inteligência Artificial**, **Machine Learning** e **Arquitetura de Software**.
 
-- 🔭 Atualmente, estou procurando colaborar em projetos de desenvolvimento web e artigos de tecnologia
-- 🌱 Tenho conhecimento intermediário em JavaScript, HTML e CSS
-- 👯 Estou buscando oportunidades para construir meu portfólio e ganhar experiência
-- 💬 Converse comigo sobre JavaScript, HTML, CSS, C#, React e oportunidades de emprego
-- 🎓 Recentemente me formei na faculdade e estou ansioso para trabalhar em projetos interessantes
+---
 
-## Habilidades 📃
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+## Sobre mim
 
+| | |
+|---|---|
+| **Atuação** | Docente & Desenvolvedor Full Stack |
+| **Formação** | IFPR — Sistemas de Informação |
+| **Experiência** | +5 anos em desenvolvimento |
+| **Especialização** | I.A · Machine Learning · Arquitetura de Software |
 
-## Conecte-se Comigo 📧
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](www.linkedin.com/in/m4teus-r3ck)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:mateus8reck@hotmail.com)
+## Stack principal
 
-README feito com a ajuda de [githubProfileReadmeGenerator](https://github.com/rahuldkjain/github-profile-readme-generator)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+---
+
+## O que você vai encontrar aqui
+
+- ▸ Projetos acadêmicos desenvolvidos para uso em sala de aula (técnico, médio e superior)
+- ▸ Soluções corporativas para otimização de desempenho e produtividade
+- ▸ Experimentos com I.A e Machine Learning aplicados a problemas reais
+- ▸ Projetos pessoais com foco em aprendizado contínuo e boas práticas
+
+---
+
+## Vamos conversar?
+
+Aberto a colaborações, trocas de conhecimento e novos projetos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
